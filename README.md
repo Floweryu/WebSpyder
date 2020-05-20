@@ -1,6 +1,2 @@
 #### 网络爬虫框架scrapy
-
-- MuseumNews   百度新闻爬取
-- LuXunMuseum   鲁迅博物馆新闻爬取
-- MilitaryMuseum  中国人民革命军事博物馆新闻爬取
-- ToBoNews      中国地质博物馆新闻爬取
+初探scrapy框架，爬取百度新闻，其他各大博物馆新闻
